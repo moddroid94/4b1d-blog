@@ -1,7 +1,7 @@
 ---
 title: Documenting the journey
 updated: 2026-09-06
-published: ""
+published: 2026-09-06
 description: ""
 image: ""
 tags: []
