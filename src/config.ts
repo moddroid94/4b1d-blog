@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Printables",
-			icon: "fa6-brands:printables", // Visit https://icones.js.org/ for icon codes
+			icon: "selfhst:printables", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://www.printables.com/@n0d4y",
