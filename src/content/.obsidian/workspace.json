@@ -23,18 +23,16 @@
             }
           },
           {
-            "id": "00ffcdecd9794685",
+            "id": "e641bb9187a47f3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "_GUIDE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "_bases/Home.base",
+                "viewName": "Posts"
               },
-              "icon": "lucide-file",
-              "title": "_GUIDE"
+              "icon": "lucide-home",
+              "title": "Home"
             }
           }
         ],
@@ -162,11 +160,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0e7ab78d28920359",
+  "active": "e641bb9187a47f3d",
   "lastOpenFiles": [
-    "spec/about.md",
+    "posts/documenting-the-journey.md",
     "_bases/Home.base",
+    "posts/guide/index.md",
+    "posts/video.md",
+    "posts/draft.md",
+    "posts/markdown-extended.md",
+    "spec/about.md",
+    "posts/Untitled.md",
     "_GUIDE.md",
-    "posts/guide/index.md"
+    "posts/guide/cover.jpeg"
   ]
 }
