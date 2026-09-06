@@ -1,7 +1,9 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi, this is going to be my attempt at documenting the research, development and building process of the sketchy ideas i have at 4am in the morning.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="moddroid94/moddroid94"}
+
+My website: [x4b1d Portfolio](https://x4b1d.ovh)
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
